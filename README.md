@@ -27,8 +27,6 @@ Desenvolver um dashboard interativo em Power BI para análise comercial, permiti
 - Distribuição de vendas por forma de pagamento
 - Personalização visual com fotos e nomes via DAX
 
-## 📷 Visualização
-![Dashboard de Vendas](dashboardVendas.png)
 ## 🚀 Aprendizados Técnicos
 - Aplicação de **DAX** para manipulação de dados e personalização
 - Criação de **dashboards interativos** com múltiplos filtros
