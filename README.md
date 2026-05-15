@@ -1,3 +1,4 @@
+<img width="1167" height="653" alt="dashboardVendas" src="https://github.com/user-attachments/assets/e1ec2195-3ea6-45f3-ba6b-c20d692f3ffc" />
 
 # Dashboard de Vendas - Power BI
 
